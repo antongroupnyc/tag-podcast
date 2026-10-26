@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>The Anton Group News of the Day</title>
-    <link>https://podcast.antongroupnyc.com/</link>
+    <link>https://antongroupnyc.com</link>
     <atom:link href="https://podcast.antongroupnyc.com/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>© 2026 The Anton Group</copyright>
@@ -18,7 +18,7 @@
     <image>
       <url>https://podcast.antongroupnyc.com/cover.jpg</url>
       <title>The Anton Group News of the Day</title>
-      <link>https://podcast.antongroupnyc.com/</link>
+      <link>https://antongroupnyc.com</link>
     </image>
     <itunes:category text="Business">
       <itunes:category text="Investing" />
@@ -38,7 +38,7 @@
       <itunes:duration>00:01:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://podcast.antongroupnyc.com/</link>
+      <link>https://antongroupnyc.com</link>
     </item>
   </channel>
 </rss>
