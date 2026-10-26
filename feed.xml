@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>The Anton Group News of the Day</title>
+    <link>https://antongroupnyc.com/podcast</link>
+    <atom:link href="https://antongroupnyc.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© 2026 The Anton Group</copyright>
+    <description>A 60-second weekday briefing on New York City commercial real estate: deals, financing, rates and policy, from Eric Michael Anton of The Anton Group at Marcus &amp; Millichap.</description>
+    <lastBuildDate>Mon, 26 Oct 2026 18:59:01 +0000</lastBuildDate>
+    <itunes:author>Eric Michael Anton / The Anton Group</itunes:author>
+    <itunes:summary>A 60-second weekday briefing on New York City commercial real estate: deals, financing, rates and policy, from Eric Michael Anton of The Anton Group at Marcus &amp; Millichap.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>The Anton Group</itunes:name>
+      <itunes:email>nelson.lee@aipropertyintelligence.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://antongroupnyc.com/podcast/cover.jpg?v=2" />
+    <image>
+      <url>https://antongroupnyc.com/podcast/cover.jpg?v=2</url>
+      <title>The Anton Group News of the Day</title>
+      <link>https://antongroupnyc.com/podcast</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+    <podcast:guid>1f8a0a18-9b94-5531-af3b-bddb2edf77fc</podcast:guid>
+    <item>
+      <title>October 26, 2026</title>
+      <description>&lt;p&gt;The 10-year Treasury fell to 5% last week with SOFR at 3.90%, as foreign capital returns to New York office through Tishman Speyer and Bouwinvest&amp;#x27;s Chrysler Building fund and 350 Park closes a $3.3 billion construction loan. Also: the Kips Bay AMC closes in January as NYU Langone expands, and the City Council passed COPA, giving nonprofits first shot at about 2,100 distressed rental buildings.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"&gt;U.S. Treasury daily par yield curve&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.newyorkfed.org/markets/reference-rates/sofr"&gt;New York Fed SOFR&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://commercialobserver.com/2026/10/tishman-speyer-bouwinvest-us-office-fund/"&gt;Commercial Observer: Tishman Speyer and Bouwinvest U.S. office fund&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.globenewswire.com/news-release/2026/10/21/3385625/0/en/vornado-ken-griffin-and-rudin-close-joint-venture-1-05-million-sf-anchor-lease-and-3-3-billion-construction-loan.html"&gt;GlobeNewswire: Vornado, Ken Griffin and Rudin close 350 Park joint venture, lease and construction loan&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/"&gt;Variety: AMC Kips Bay closing date&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://therealdeal.com/new-york/2026/10/22/copa-passes-nyc-council-after-six-year-battle/"&gt;The Real Deal: COPA passes NYC Council&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded>&lt;p&gt;The 10-year Treasury fell to 5% last week with SOFR at 3.90%, as foreign capital returns to New York office through Tishman Speyer and Bouwinvest&amp;#x27;s Chrysler Building fund and 350 Park closes a $3.3 billion construction loan. Also: the Kips Bay AMC closes in January as NYU Langone expands, and the City Council passed COPA, giving nonprofits first shot at about 2,100 distressed rental buildings.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"&gt;U.S. Treasury daily par yield curve&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.newyorkfed.org/markets/reference-rates/sofr"&gt;New York Fed SOFR&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://commercialobserver.com/2026/10/tishman-speyer-bouwinvest-us-office-fund/"&gt;Commercial Observer: Tishman Speyer and Bouwinvest U.S. office fund&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.globenewswire.com/news-release/2026/10/21/3385625/0/en/vornado-ken-griffin-and-rudin-close-joint-venture-1-05-million-sf-anchor-lease-and-3-3-billion-construction-loan.html"&gt;GlobeNewswire: Vornado, Ken Griffin and Rudin close 350 Park joint venture, lease and construction loan&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/"&gt;Variety: AMC Kips Bay closing date&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://therealdeal.com/new-york/2026/10/22/copa-passes-nyc-council-after-six-year-battle/"&gt;The Real Deal: COPA passes NYC Council&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <enclosure url="https://antongroupnyc.com/podcast/episodes/2026-10-26.mp3" length="1042642" type="audio/mpeg" />
+      <guid isPermaLink="false">antongroupnyc-news-of-the-day-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:title>October 26, 2026</itunes:title>
+      <itunes:duration>00:01:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://antongroupnyc.com/podcast</link>
+    </item>
+  </channel>
+</rss>
