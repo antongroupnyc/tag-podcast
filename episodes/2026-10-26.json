@@ -1,12 +1,12 @@
 [
  {
   "headline": "The 10-year Treasury yield eased to about 5% last week.",
-  "source": "home.treasury.gov",
+  "source": "U.S. Treasury",
   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
  },
  {
   "headline": "SOFR stood at 3.90%.",
-  "source": "newyorkfed.org",
+  "source": "New York Fed",
   "url": "https://www.newyorkfed.org/markets/reference-rates/sofr"
  },
  {
