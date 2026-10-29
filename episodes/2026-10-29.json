@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "headline": "The 10-year Treasury closed Wednesday at 5.05%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+ },
+ {
+  "headline": "SOFR stood at 3.95%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "The Fed held rates at 3.75% to 4%, with two members voting for a hike.",
+  "source": "MarketWatch",
+  "url": "https://www.marketwatch.com/story/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-dbd6e218"
+ },
+ {
+  "headline": "Namdar bought the leasehold at 71 Fifth Avenue in the Flatiron for $62 million.",
+  "source": "Commercial Observer",
+  "url": "https://commercialobserver.com/2026/10/71-fifth-avenue-leasehold-sale-namdar-realty-group/"
+ },
+ {
+  "headline": "The Archdiocese is selling the former St. Brigid School site on Tompkins Square Park for $35 million, where Quinlan plans an 11-story rental.",
+  "source": "Patch",
+  "url": "https://patch.com/new-york/east-village/11-story-tower-could-rise-over-tompkins-square-park-after-35m-sale"
+ },
+ {
+  "headline": "The foreclosure sale of 521 Fifth Avenue was pushed off again; a June appraisal valued the tower at $270 million.",
+  "source": "Commercial Observer",
+  "url": "https://commercialobserver.com/2026/10/savanna-deutsche-bank-521-fifth-avenue-foreclosure-sale/"
+ }
+]
