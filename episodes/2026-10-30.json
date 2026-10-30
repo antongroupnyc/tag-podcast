@@ -1,0 +1,37 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Thursday at 4.98%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve"
+ },
+ {
+  "headline": "SOFR stood at 3.94%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "Weil Gotshal's leaders recommended winding down the firm, which fills about 400,000 square feet at the GM Building.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html"
+ },
+ {
+  "headline": "BXP posted third-quarter revenue of $911.4 million.",
+  "source": "Commercial Observer",
+  "url": "https://commercialobserver.com/2026/10/bxp-revenue-earnings-q3-sales/"
+ },
+ {
+  "headline": "BXP is negotiating to sell 7 Times Square for up to $750 million.",
+  "source": "Commercial Observer",
+  "url": "https://commercialobserver.com/2026/10/bxp-revenue-earnings-q3-sales/"
+ },
+ {
+  "headline": "BXP is in talks for five floors at 343 Madison, which would take the tower to nearly 70% pre-leased.",
+  "source": "Commercial Observer",
+  "url": "https://commercialobserver.com/2026/10/bxp-revenue-earnings-q3-sales/"
+ },
+ {
+  "headline": "On this day in 1938, Orson Welles broadcast The War of the Worlds live from 485 Madison Avenue.",
+  "source": "New York Explained",
+  "url": "https://newyorkexplained.com/history/on-this-day/10-30/"
+ }
+]
