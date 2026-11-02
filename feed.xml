@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>© 2026 The Anton Group</copyright>
     <description>A 60-second weekday briefing on New York City commercial real estate: deals, financing, rates and policy, from Eric Michael Anton of The Anton Group at Marcus &amp; Millichap.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 10:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:48:38 +0000</lastBuildDate>
     <itunes:author>Eric Michael Anton / The Anton Group</itunes:author>
     <itunes:summary>A 60-second weekday briefing on New York City commercial real estate: deals, financing, rates and policy, from Eric Michael Anton of The Anton Group at Marcus &amp; Millichap.</itunes:summary>
     <itunes:owner>
@@ -27,6 +27,19 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
     <podcast:guid>1f8a0a18-9b94-5531-af3b-bddb2edf77fc</podcast:guid>
+    <item>
+      <title>News of the Day: Monday, November 2</title>
+      <description>&lt;p&gt;Fannie and Freddie tighten lending after the rent freeze, Shorenstein buys 148 Lafayette for $132.5M, Gentle Monster takes 28,500 SF at the Puck Building, and Eataly Caffe opens at 2252 Broadway.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&amp;amp;type=daily_treasury_yield_curve"&gt;U.S. Treasury, 10-year yield on 10/30/2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"&gt;New York Fed, SOFR on 10/29/2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.thecityreporter.nyc/2026/11/02/fannie-mae-freddie-mac-rent-freeze-mamdani-mortgages/"&gt;The City Reporter, Fannie Mae and Freddie Mac after the rent freeze&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116665273939808465"&gt;Traded NY, Shorenstein buys 148 Lafayette Street&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116572166753829178"&gt;Traded NY, Gentle Monster at the Puck Building&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116648916867285281"&gt;Traded NY, Eataly Caffe at 2252 Broadway&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded>&lt;p&gt;Fannie and Freddie tighten lending after the rent freeze, Shorenstein buys 148 Lafayette for $132.5M, Gentle Monster takes 28,500 SF at the Puck Building, and Eataly Caffe opens at 2252 Broadway.&lt;/p&gt;&lt;p&gt;Sources:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&amp;amp;type=daily_treasury_yield_curve"&gt;U.S. Treasury, 10-year yield on 10/30/2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"&gt;New York Fed, SOFR on 10/29/2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.thecityreporter.nyc/2026/11/02/fannie-mae-freddie-mac-rent-freeze-mamdani-mortgages/"&gt;The City Reporter, Fannie Mae and Freddie Mac after the rent freeze&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116665273939808465"&gt;Traded NY, Shorenstein buys 148 Lafayette Street&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116572166753829178"&gt;Traded NY, Gentle Monster at the Puck Building&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://x.com/tradedny/status/2116648916867285281"&gt;Traded NY, Eataly Caffe at 2252 Broadway&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      <enclosure url="https://podcast.antongroupnyc.com/episodes/2026-11-02.mp3" length="1467692" type="audio/mpeg" />
+      <guid isPermaLink="false">antongroupnyc-news-of-the-day-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 -0500</pubDate>
+      <itunes:title>News of the Day: Monday, November 2</itunes:title>
+      <itunes:duration>00:01:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://podcast.antongroupnyc.com/2026-11-02/</link>
+    </item>
     <item>
       <title>Weil Weighs Wind-Down at GM Building, BXP Talks 7 Times Square Sale at $750M | NYC CRE News Oct 30, 2026</title>
       <description>&lt;p&gt;It&amp;#x27;s Friday, October 30th. Welcome to the Anton Group News of the Day, I&amp;#x27;m Eric Michael Anton.

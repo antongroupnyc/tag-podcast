@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Friday at 4.94%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+ },
+ {
+  "headline": "SOFR stood at 3.94%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "After the rent freeze, Fannie Mae now assumes no rent increases on stabilized units for four to eight years, and Freddie Mac has paused new loans.",
+  "source": "thecityreporter.nyc",
+  "url": "https://www.thecityreporter.nyc/2026/11/02/fannie-mae-freddie-mac-rent-freeze-mamdani-mortgages/"
+ },
+ {
+  "headline": "Shorenstein bought 148 Lafayette Street in SoHo, a fully leased building, for $132.5 million.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2116665273939808465"
+ },
+ {
+  "headline": "Gentle Monster is taking 28,500 square feet at the Puck Building, completing its re-tenanting.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2116572166753829178"
+ },
+ {
+  "headline": "Eataly Caffe opens Friday at 2252 Broadway, the former Starbucks space from You've Got Mail.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2116648916867285281"
+ }
+]
