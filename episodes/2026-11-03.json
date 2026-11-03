@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Monday at 4.91%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+ },
+ {
+  "headline": "SOFR stood at 3.95%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "It's Election Day in New York, and city voters decide five ballot questions, including one to simplify construction permitting.",
+  "source": "abc7ny.com",
+  "url": "https://abc7ny.com/post/hochul-holds-lead-blakeman-governors-race-enters-final-stretch/20005516/"
+ },
+ {
+  "headline": "Northwind Group is lending $231 million to convert 675 Third Avenue near Grand Central into as many as 450 apartments.",
+  "source": "prnewswire.com",
+  "url": "https://www.prnewswire.com/news-releases/northwind-group-provides-a-231-million-construction-loan-for-the-office-to-residential-conversion-of-675-third-avenue-a-337k-sf-office-tower-in-midtown-manhattan-302926887.html"
+ },
+ {
+  "headline": "Brightshore Capital bought DŌMI, a new 190-unit rental complex in Long Island City, for just over $143 million.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/brightshore-capital-long-island-city-deal-multifamily/"
+ },
+ {
+  "headline": "Manhattan office leasing is on pace for its best year since 2000, projected at nearly 44 million square feet.",
+  "source": "bulwark.nyc",
+  "url": "https://bulwark.nyc/news/66149/manhattan-office-leasing-is-partying-like-its-2000-will-it-last"
+ }
+]
