@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Tuesday at 4.95%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+ },
+ {
+  "headline": "SOFR stood at 3.95%.",
+  "source": "New York Fed",
+  "url": "https://www.newyorkfed.org/markets/reference-rates/sofr"
+ },
+ {
+  "headline": "New York City voters approved Question 4, creating one central system for construction permits across city agencies.",
+  "source": "amny.com",
+  "url": "https://www.amny.com/politics/nyc-voters-approve-all-five-ballot-proposals/"
+ },
+ {
+  "headline": "Freddie Mac has reportedly paused new loans on rent-regulated buildings while it weighs the rent freeze, and Fannie Mae has tightened underwriting.",
+  "source": "thecityreporter.nyc",
+  "url": "https://www.thecityreporter.nyc/2026/11/02/fannie-mae-freddie-mac-rent-freeze-mamdani-mortgages/"
+ },
+ {
+  "headline": "Sedesco bought 35 West 57th Street, a Gilded Age mansion on Billionaires' Row, for $42 million to fill out its supertall assemblage.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/35-west-57th-street-sale-sedesco-soloviev/"
+ },
+ {
+  "headline": "Kushner Companies sold three Murray Hill walk-ups for $12 million, less than half what it paid in 2015.",
+  "source": "Bisnow, NY Deal Sheet",
+  "url": "https://www.bisnow.com/news/new-york/deal-sheet/supertall-assemblage-comes-together-long-vacant-midtown-site-ny-deal-sheet"
+ }
+]
