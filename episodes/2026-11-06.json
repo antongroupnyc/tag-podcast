@@ -1,0 +1,42 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Thursday at 4.84%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+ },
+ {
+  "headline": "SOFR stood at 3.94%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/1.json"
+ },
+ {
+  "headline": "A state appeals court dismissed the pied-à-terre rollout challenge for lack of standing; constitutional suits remain pending.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/mamdani-appeals-court-win-pied-a-terre-tax/"
+ },
+ {
+  "headline": "Manhattan office leasing jumped 54% in October, while asking rents matched their pre-pandemic average.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/manhattan-office-leasing-october-2026-colliers-report/"
+ },
+ {
+  "headline": "Genesis closed $669 million to rehabilitate Harlem's Rangel Houses.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/berkadia-provides-219m-to-rehab-rangel-houses-in-new-york-city/"
+ },
+ {
+  "headline": "Dates Matter: Abraham Lincoln won the presidency on November 6, 1860.",
+  "source": "archive.nytimes.com",
+  "url": "https://archive.nytimes.com/learning.blogs.nytimes.com/on-this-day/november-6/"
+ },
+ {
+  "headline": "Lincoln delivered his Cooper Union address earlier in 1860.",
+  "source": "cooper.edu",
+  "url": "https://cooper.edu/about/abraham-lincoln-cooper-union"
+ },
+ {
+  "headline": "Cooper Union owns the Chrysler land; Tishman Speyer signed a 150-year ground lease with $235 million to reposition the tower.",
+  "source": "cooper.edu",
+  "url": "https://cooper.edu/about/news/tishman-speyer-cooper-union-finalize-ground-lease-agreement-and-revitalization-plan"
+ }
+]
