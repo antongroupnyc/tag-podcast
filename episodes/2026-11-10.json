@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Monday at 4.88%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+ },
+ {
+  "headline": "SOFR stood at 3.89%.",
+  "source": "New York Fed",
+  "url": "https://www.newyorkfed.org/markets/reference-rates/sofr"
+ },
+ {
+  "headline": "City Hall will hold one more property tax lien sale in mid-2027, reversing the mayor's pledge to end it.",
+  "source": "thecityreporter.nyc",
+  "url": "https://www.thecityreporter.nyc/2026/11/09/foreclosure-water-sewer-tax-debt-cea-weaver/"
+ },
+ {
+  "headline": "Empire State Realty Trust is marketing 501 Seventh Avenue in the Garment District for about $150 million.",
+  "source": "bulwark.nyc",
+  "url": "https://bulwark.nyc/news/66406/esrt-eyes-150m-for-garment-district-office-building"
+ },
+ {
+  "headline": "Lagfin, the Campari family office, sold 484-486 Broadway in SoHo for $33.5 million.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/campari-group-lagfin-484-486-broadway-sale/"
+ },
+ {
+  "headline": "Northwind Group provided a $231 million construction loan to convert 675 Third Avenue from office to rentals.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/northwind-metroloft-david-wener-675-third-avenue/"
+ }
+]
