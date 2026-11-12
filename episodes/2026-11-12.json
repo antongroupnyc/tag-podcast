@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Tuesday at 4.98%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+ },
+ {
+  "headline": "SOFR stood at 3.88%.",
+  "source": "New York Fed",
+  "url": "https://www.newyorkfed.org/markets/reference-rates/sofr"
+ },
+ {
+  "headline": "Extell paid $27.9 million for 1645 First Avenue on the Upper East Side, its second Manhattan land buy made public this week.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/extell-buys-1645-first-avenue/"
+ },
+ {
+  "headline": "Related filed plans for a 12-story, 376-unit affordable building at Willets Point next to Citi Field.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2120677425415950355"
+ },
+ {
+  "headline": "About 187,000 square feet of development rights could come out of Studio 54, with a full City Council vote set for Thursday.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2120615718387605936"
+ },
+ {
+  "headline": "New York has approved 9,471 homes through ULURP this year, already more than all of last year.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2120586540275614060"
+ }
+]
