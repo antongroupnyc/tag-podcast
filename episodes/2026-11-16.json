@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Friday at 5.15%.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.90%.",
+  "source": "New York Fed",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "New York City is inspecting 160 construction sites tied to firms on the project next to the deadly 1321 Flatbush Avenue collapse.",
+  "source": "how2newyork.com",
+  "url": "https://how2newyork.com/flatbush-building-collapse-investigation-construction-sites/"
+ },
+ {
+  "headline": "The City Council approved Roundabout Theatre's Studio 54 plan, creating about 188,000 square feet of bonus floor area for a theater rehab.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2121084391359136209"
+ },
+ {
+  "headline": "Manhattan buyers signed contracts on 45 homes asking $4 million or more last week, the highest weekly volume since 2021.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/14/what-a-blockbuster-week-of-inked-deals-could-mean-for-manhattan-luxury/"
+ },
+ {
+  "headline": "Dolce & Gabbana leased the full 9th floor at 551 Fifth Avenue for its New York headquarters.",
+  "source": "x.com",
+  "url": "https://x.com/tradedny/status/2121009099743641626"
+ }
+]
