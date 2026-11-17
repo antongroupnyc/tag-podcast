@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Monday at 5.12%.",
+  "source": "5.12",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.90%.",
+  "source": "3.90",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "RXR took a minority stake in Silverstein's 55 Broad Street, a 571-unit office-to-residential conversion valued at about $500 million.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/rxr-55-broad-street-wells-macuarie-newmark-metro-loft/"
+ },
+ {
+  "headline": "Joyland Management paid $100 million for the Hudson Yards development site at 460 Tenth Avenue, held by Sherwood Equities since the early 1990s.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/sherwood-equities-hudson-yards-joyland-management-sale-460-10th-avenue/"
+ },
+ {
+  "headline": "Trammell Crow bought a West Chelsea garage site on West 18th Street for $67.5 million and plans a 14-story residential tower.",
+  "source": "crainsnewyork.com",
+  "url": "https://www.crainsnewyork.com/real-estate/commercial/cny-trammell-crow-buys-18th-street-site-20261116/"
+ },
+ {
+  "headline": "Weil, Gotshal & Manges partners approved a plan of liquidation and the firm has begun winding down.",
+  "source": "weil.com",
+  "url": "https://www.weil.com/articles/weil-partnership-approves-plan-of-liquidation-and-begins-orderly-wind-down"
+ }
+]
