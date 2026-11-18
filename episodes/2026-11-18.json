@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Tuesday at 5.10%.",
+  "source": "5.10",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.93%.",
+  "source": "3.93",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "Vornado bought a 13-story medical office building at 30 East 40th Street for $28 million at a bankruptcy auction.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/vornado-buys-office-30-east-40th-street/"
+ },
+ {
+  "headline": "GO Partners and RXR listed 265 East 66th Street, a 321-unit Upper East Side rental, for sale.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/17/go-partners-and-rxr-offer-265-east-66th-street/"
+ },
+ {
+  "headline": "Kushner and RFR face foreclosure on their three-building Dumbo Heights office campus over a $325 million loan.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/17/kushner-rfr-face-foreclosure-at-dumbo-heights-office-campus/"
+ },
+ {
+  "headline": "The City Council member for Flatbush is calling for a temporary freeze on new development approvals and non-emergency construction in the district.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/policy-pro/new-york/2026/11/brooklyn-collapse-spurs-call-for-construction-freeze/"
+ }
+]
