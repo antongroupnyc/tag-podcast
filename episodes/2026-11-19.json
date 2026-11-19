@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Wednesday at 5.07%.",
+  "source": "5.07",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.92%.",
+  "source": "3.92",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "Rockrose refinanced its boutique office property at 11 East 26th Street with a $309 million, 10-year loan from Goldman Sachs.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/rockrose-11-east-26th-street-goldman-iron-hound/"
+ },
+ {
+  "headline": "The MTA board approved EMP Capital on Wednesday to build 375 apartments at 1119 Pacific Street in Crown Heights.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/mta-emp-capital-1119-pacific-street-brooklyn/"
+ },
+ {
+  "headline": "The state's housing agency updated its guidance, clarifying that rent concessions can be distinct from preferential rents.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/18/landlords-receive-second-change-after-dhcr-rule-40-change/"
+ },
+ {
+  "headline": "The Department of Buildings issued stop-work orders on at least five projects tied to the engineers on last week's Flatbush collapse.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/18/city-stops-construction-at-sites-tied-to-brooklyn-collapse/"
+ }
+]
