@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "U.S. Treasury, 10-year yield on 11/19/2026",
+  "source": "5.04",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "New York Fed, SOFR effective 11/18/2026",
+  "source": "3.90",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/2.json"
+ },
+ {
+  "headline": "The Real Deal, L+M and SMJ seek Bed-Stuy rezoning for Fulton Park",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/19/lm-pitches-seek-rezoning-for-fulton-park-megadevelopment/"
+ },
+ {
+  "headline": "Commercial Observer, Red Apple Group files plans for 99 units at 253 West 24th Street",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/red-apple-group-housing-253-west-24th-street/"
+ },
+ {
+  "headline": "Commercial Observer, CMBS loan on 123 William Street enters special servicing",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/123-william-street-distress-cmbs/"
+ },
+ {
+  "headline": "Dates Matter, New York Historical Society founded Nov 20, 1804; $175M expansion completed this year",
+  "source": "governor.ny.gov",
+  "url": "https://www.governor.ny.gov/news/governor-hochul-announces-completion-new-york-historicals-new-tang-wing-central-park-west"
+ }
+]
