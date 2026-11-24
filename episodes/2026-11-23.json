@@ -1,0 +1,27 @@
+[
+ {
+  "headline": "U.S. Treasury, 10-year yield on 11/20/2026",
+  "source": "4.92",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "New York Fed, SOFR effective 11/19/2026",
+  "source": "3.91",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "The Real Deal, Takenaka Development affiliate buys 1 Broadway in FiDi for $165 million",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/data/new-york/2026/new-york-top-real-estate-deals-friday-nov-20/"
+ },
+ {
+  "headline": "New York Post, Prime Midtown office availability falls to 1.9%",
+  "source": "nypost.com",
+  "url": "https://nypost.com/2026/11/22/business/prime-midtown-office-vacancy-shrinks-in-first-3-quarters-of-2026/"
+ },
+ {
+  "headline": "Commercial Observer, Rockrose refinances 11 East 26th Street for $309M",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/rockrose-11-east-26th-street-goldman-iron-hound/"
+ }
+]
