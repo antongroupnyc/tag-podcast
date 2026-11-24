@@ -1,0 +1,27 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Monday at 4.92%.",
+  "source": "4.92",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.92%.",
+  "source": "3.92",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "Rudin canceled four planned office-to-residential conversions in Manhattan and is keeping those buildings as offices.",
+  "source": "crainsnewyork.com",
+  "url": "https://www.crainsnewyork.com/real-estate/commercial/cny-rudin-rethinks-conversions-20261119/"
+ },
+ {
+  "headline": "Brookfield bought into Hudson Square Properties, the 13-building West Side portfolio, in a deal valuing it at $3.5 billion.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/brookfield-seeks-stake-in-hudson-square-properties-portfolio/"
+ },
+ {
+  "headline": "Samson Management sold the apartment building at 160 Front Street in the Financial District for $23 million.",
+  "source": "crainsnewyork.com",
+  "url": "https://www.crainsnewyork.com/real-estate/commercial/cny-samson-management-sells-160-front-20261123/"
+ }
+]
