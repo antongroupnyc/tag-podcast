@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Tuesday at 4.91%.",
+  "source": "4.91",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.92%.",
+  "source": "3.92",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/5.json"
+ },
+ {
+  "headline": "Apollo supplied a $305 million construction loan for 101 Franklin Street, a 72-unit Tribeca condo conversion.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/new-york/2026/11/23/apollo-provides-305m-loan-for-101-franklin-conversion/"
+ },
+ {
+  "headline": "Moinian Group modified the $131 million CMBS loan on 2 Washington Street in Battery Park City and signed Prism as the new tenant.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/moinian-group-2-washington-mod-prism/"
+ },
+ {
+  "headline": "JPMorgan Chase provided a $90 million loan to Brause Realty to refinance The Lotus at 255 East 39th Street in Murray Hill.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/jpmorgan-manhattan-apartments/"
+ },
+ {
+  "headline": "Mitchell & Titus signed an 11-year headquarters lease at One Battery Park Plaza, bringing the tower to 99% leased.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/mitchell-titus-lease-rudin-one-battery-park-plaza/"
+ }
+]
