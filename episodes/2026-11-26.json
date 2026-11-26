@@ -1,0 +1,27 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Wednesday at 4.85%.",
+  "source": "4.85",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.94%.",
+  "source": "3.94",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "Vornado sold a minority stake in 90 Park Avenue to Sixth Street and DivcoWest at a $722.5 million valuation.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/vornado-90-park-avenue-sixth-street-divco/"
+ },
+ {
+  "headline": "Hudson River Trading added 340,000 square feet at 3 World Trade Center, bringing the tower to 98% leased.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/hudson-river-trading-lease-expansion-3-world-trade-center/"
+ },
+ {
+  "headline": "Affinius Capital provided a $135 million construction loan for 172 Third Avenue, a 280-unit project in Gowanus.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/affinius-135m-construction-gowanus-172-third-avenue/"
+ }
+]
