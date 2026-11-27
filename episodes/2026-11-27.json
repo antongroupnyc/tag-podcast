@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "The 10-year Treasury closed Wednesday at 4.85%.",
+  "source": "4.85",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "headline": "SOFR stood at 3.94%.",
+  "source": "3.94",
+  "url": "https://markets.newyorkfed.org/api/rates/secured/sofr/last/3.json"
+ },
+ {
+  "headline": "A Manhattan judge upheld the two-year rent freeze covering roughly one million stabilized apartments, and owners are weighing an appeal.",
+  "source": "gothamist.com",
+  "url": "https://gothamist.com/news/judge-upholds-nyc-rent-freeze-marking-win-for-mamdani-and-his-affordability-agenda"
+ },
+ {
+  "headline": "Aurora Capital Associates and AVRS Partners refinanced the 530 Fifth Avenue retail condo with a $122.1 million loan from Rialto Capital Management.",
+  "source": "commercialobserver.com",
+  "url": "https://commercialobserver.com/2026/11/rialto-530-fifth-avenue-retail/"
+ },
+ {
+  "headline": "New York's 20 biggest real estate lenders made $36 billion in loans in the 12 months through July, led by Wells Fargo.",
+  "source": "therealdeal.com",
+  "url": "https://therealdeal.com/magazine/november-2026/nyc-top-lenders-2025/"
+ },
+ {
+  "headline": "The first Macy's parade ended at Herald Square on Nov. 27, 1924, and the 100th steps off Saturday at 8:30 a.m.",
+  "source": "history.com",
+  "url": "https://www.history.com/articles/the-first-macys-thanksgiving-day-parade"
+ }
+]
